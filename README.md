@@ -1,4 +1,4 @@
-# amazonclone
+# Amazon-Clone
 
 • this is an amazone clone website with all the functionalities of an e-commerce website
 
